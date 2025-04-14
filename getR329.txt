@@ -1,0 +1,1 @@
+rm -rf R329 && while IFS= read -r url; do   relative_path=$(echo "$url" | sed 's|https://dl.linux-sunxi.org/R329/SDK/||');   target_dir="R329/${relative_path%.git}";   mkdir -p "$(dirname "$target_dir")";   echo "Cloning $url into $target_dir...";   git clone "$url" "$target_dir"; done < git_repo_urls.txt && echo "Cloning complete."

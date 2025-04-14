@@ -1,0 +1,13 @@
+https://dl.linux-sunxi.org/R329/SDK/projects/build.git
+https://dl.linux-sunxi.org/R329/SDK/projects/config.git
+https://dl.linux-sunxi.org/R329/SDK/projects/device/config/chips/r329.git
+https://dl.linux-sunxi.org/R329/SDK/projects/device/config/common.git
+https://dl.linux-sunxi.org/R329/SDK/projects/device/config/rootfs_tar.git
+https://dl.linux-sunxi.org/R329/SDK/projects/lichee/brandy-2.0/tools.git
+https://dl.linux-sunxi.org/R329/SDK/projects/lichee/brandy-2.0/u-boot-2018.git
+https://dl.linux-sunxi.org/R329/SDK/projects/lichee/linux-4.9.git
+https://dl.linux-sunxi.org/R329/SDK/projects/package.git
+https://dl.linux-sunxi.org/R329/SDK/projects/scripts.git
+https://dl.linux-sunxi.org/R329/SDK/projects/target.git
+https://dl.linux-sunxi.org/R329/SDK/projects/toolchain.git
+https://dl.linux-sunxi.org/R329/SDK/projects/tools.git
